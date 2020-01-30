@@ -1,0 +1,2 @@
+配置好gitee和Github后对Github push的测试
+此次clone是使用的https，使用ssh太慢
